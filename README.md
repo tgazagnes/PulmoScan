@@ -1,6 +1,9 @@
-oct23_bds_radios_pulmonaires
+Pulmoscan
 ==============================
-Répertoire du projet Radios Pulmonaires dans le cadre du bootcamp Data Scientist d'octobre 2023 (Datascientest).
+Répertoire du projet Radios Pulmonaires dans le cadre du bootcamp Datascientest.
+
+<p><small>Cliquer sur ce lien pour acceder à la présentation <a target="blank" href="https://oct23bdsradiospoumons-hep53bjmec6a3nwqfbnpew.streamlit.app">Streamlit</a>
+    
 Equipe projet : Steve Costalat, Nicolas Gorgol, Thibaut Gazagnes
 
 Project Organization
@@ -61,6 +64,5 @@ Project Organization
 
 ------------------------
 
-<p><small>Cliquer sur ce lien pour acceder à la présentation <a target="blank" href="https://oct23bdsradiospoumons-hep53bjmec6a3nwqfbnpew.streamlit.app">Streamlit</a>
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
