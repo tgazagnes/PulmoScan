@@ -2,7 +2,7 @@ Pulmoscan
 ==============================
 Répertoire du projet Radios Pulmonaires dans le cadre du bootcamp Datascientest.
 
-<p><small>Cliquer sur ce lien pour acceder à la présentation <a target="blank" href="https://oct23bdsradiospoumons-hep53bjmec6a3nwqfbnpew.streamlit.app">Streamlit</a>
+<p><small>Cliquer sur ce lien pour acceder à la présentation <a target="blank" href="https://octbdspulmoscan-v9ccdj4bdtzktedwkx7d3u.streamlit.app/">Streamlit</a>
     
 Equipe projet : Steve Costalat, Nicolas Gorgol, Thibaut Gazagnes
 
